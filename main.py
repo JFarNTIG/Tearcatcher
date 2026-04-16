@@ -1,5 +1,9 @@
+# Ta reda på hur färgkoder fungerar genom att ändra siffrorna i
+# "Colors". Hur påverkas färgen om man ändrar första siffran?
+# Om man ändrar andra siffran?
+# 
 # 1. Gör så att racketen är lila istället för grå.
-# 2. Gör så att 2 cirklar spawnar istället för 1.
+# 2. Gör så att cirklarna spawnar snabbare.
 # 3. Gör så att racketen också kan röra sig upp och ner.
 # 
 # (Utmaning)
