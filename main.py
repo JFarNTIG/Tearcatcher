@@ -27,7 +27,7 @@ pygame.display.set_caption("Tearcatcher Game")
 # Colors
 TEXT_COLOR = (255, 255, 255)
 PAPER_COLOR = (255, 255, 255)
-PADDLE_COLOR = (128, 128, 128)
+PADDLE_COLOR = (160, 160, 160)
 TEARS_COLOR = (0, 0, 255)
 BACKGROUND_COLOR = (0, 0, 0)
 
