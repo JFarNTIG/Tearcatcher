@@ -18,7 +18,7 @@ import random
 pygame.init()
 
 # Screen dimensions
-WIDTH, HEIGHT = 300, 600
+WIDTH, HEIGHT = 500, 800
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 
 # Set the title of the game window
