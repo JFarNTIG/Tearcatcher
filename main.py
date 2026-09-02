@@ -20,7 +20,9 @@ pygame.init()
 # Screen dimensions
 WIDTH, HEIGHT = 300, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Tearcatcher")
+
+# Set the title of the game window
+pygame.display.set_caption("Tearcatcher Game")
 
 # Colors
 TEXT_COLOR = (255, 255, 255)
