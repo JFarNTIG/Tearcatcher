@@ -29,7 +29,7 @@ TEXT_COLOR = (255, 255, 255)
 PAPER_COLOR = (255, 255, 255)
 PADDLE_COLOR = (128, 128, 128)
 TEARS_COLOR = (0, 0, 255)
-BACKGROUND_COLOR = (22, 22, 22)
+BACKGROUND_COLOR = (0, 0, 0)
 
 # Clock to control frame rate
 clock = pygame.time.Clock()
